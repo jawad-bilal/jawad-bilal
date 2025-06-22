@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a passionate self-taught **developer**, currently purs
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/yourprofile](#)
-- Email: [your.email@example.com](mailto:jawadbilal202006@gmail.com)
+- Email: [jawadbilal202006@gmail.com](mailto:jawadbilal202006@gmail.com)
 - Fiverr: [fiverr.com/jawadbilal189](#)
 
 ---
