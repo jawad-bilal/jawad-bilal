@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Jawad Bilal
 
-<!--
-**jawad-bilal/jawad-bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate self-taught **developer**, currently pursuing **BS Computer Engineering** at the **COMSATS University Islamabad, Lahore**. I love building real-world tech solutions and constantly pushing my boundaries in the field of programming and electronics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🔧 Frontend Web Development (HTML, CSS, JavaScript)
+- 🖥️ C++ and Python Programming
+- 💡 Arduino-based Embedded Projects
+- 🌐 Freelance Web Development with my brother
+- 🎮 Creator of an Arduino-powered Snake Game
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 Languages: C++, Python, JavaScript
+- 🌐 Web: HTML5, CSS3, Tailwind CSS, Bootstrap
+- ⚡ Hardware: Arduino Uno, Sensors (IR, LDR, PIR), LCD Displays (I2C)
+- 🛠 Tools: VS Code, Git, GitHub, Figma, Canva
+
+---
+
+## 📌 Current Focus
+
+- 🎯 Mastering Frontend Development (React.js next!)
+- 🧠 Improving Data Structures & Algorithms
+- 🌱 Learning UI/UX principles and design systems
+
+---
+
+## 📈 GitHub Stats
+
+![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawad-bilal&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/yourprofile](#)
+- Email: [your.email@example.com](mailto:jawadbilal202006@gmail.com)
+- Fiverr: [fiverr.com/jawadbilal189](#)
+
+---
+
+> “Consistency is more important than perfection.”
+
+Thanks for visiting! 🌟
